@@ -13,6 +13,7 @@ always_on: true
    - **CLOUD (active):** `C:\Amd949609_Antigravity_v1\cloud_storage\evidence_locker`, `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_shared_export` (most recent cloud writes)
    - **GOOGLE DRIVE (active cloud):** `https://drive.google.com` — local sync at `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_backup`, `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_shared_export`
    - **DEFAULT PICK:** write new evidence to `C:\Amd949609_Antigravity_v1\evidence` (local primary) and mirror to `C:\Amd949609_Antigravity_v1\cloud_storage\evidence_locker` (cloud) and Google Drive via `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_backup`.
+   - **SOURCE OF TRUTH RULE:** C:\OsintNeoAi is NEVER the source of anything. All sources of truth live in the user folder C:\Amd949609_Antigravity_v1 and designated locations on C:\ or Google Drive. The C:\OsintNeoAi repo is a working/code checkout only — read from it if needed, but always source data, evidence, tools, and configs from the user folder or GDrive.
 3. **Backup Locations (ACTIVE):**
    - **Google Drive (cloud backup):** `https://drive.google.com` — sync folders `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_backup`, `C:\Amd949609_Antigravity_v1\cloud_storage\gdrive_shared_export`
    - **GitHub (git backup):** `https://github.com/Tonypost949/OsintNeoAi.git`, `https://github.com/Tonypost949/ailaws` — push regularly as versioned backup
@@ -21,7 +22,7 @@ always_on: true
    - `C:\Amd949609_Antigravity_v1\backup_gh_gdrive_20261005_2240\`
    - Pre-edit law/skill backups: `C:\Amd949609_Antigravity_v1\backups\ailaws_<timestamp>\`
 4. **Repos Being Used:**
-   - `https://github.com/Tonypost949/OsintNeoAi.git` (origin, GitHub)
+   - https://github.com/Tonypost949/OsintNeoAi.git (origin, GitHub — working checkout only, NOT source of truth)
    - `https://dev.azure.com/anthonydimarcello/osintneoai/_git/osintneoai` (azure-devops, Azure DevOps — backup remote)
    - `https://github.com/Tonypost949/ailaws` (AI laws repo — backup)
 
