@@ -67,7 +67,13 @@ for p in "/mnt/c/OsintNeoAi/00_ailaws.md" "/mnt/c/OsintNeoAi/AGENTS.md" \
          "/mnt/c/OsintNeoAi/.agents/AGENTS.md" "/mnt/c/Amd949609_Antigravity_v1/AGENTS.md" \
          "/mnt/c/00_ailaws.md" "/mnt/c/AGENTS.md" "/mnt/c/ailaws.md"; do
   [ -d "$(dirname "$p")" ] || continue
-  cmp -s "$p" "$CANON" || { cp -f "$CANON" "$p" && log "regenerated $p"; }
+  cmp -s "$p" "$CANON" && continue
+  # C:\ root is owned by BUILTIN\Administrators — WSL cannot write it without a UAC click.
+  if [ -w "$(dirname "$p")" ] || [ -w "$p" ]; then
+    cp -f "$CANON" "$p" 2>/dev/null && log "regenerated $p" || log "WARN: could not write $p"
+  else
+    log "SKIP (needs Windows elevation): $p"
+  fi
 done
 
 # WSL agent paths stay symlinks to the master; repair them if ever replaced by copies
