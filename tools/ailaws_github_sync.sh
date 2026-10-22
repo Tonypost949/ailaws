@@ -26,6 +26,8 @@ REQUIRED_MARKERS=(
   "ERROR COIN"
   "YOLO Mode"
   "OFFICIAL RECORDS, PRIMARY EVIDENCE"
+  "THE TRINITY"
+  "Reversion to Mean"
 )
 
 log() { echo "$(date -u '+%Y-%m-%dT%H:%M:%SZ') $*" | tee -a "$LOG"; }

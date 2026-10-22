@@ -19,6 +19,8 @@ REQUIRED=(
   "YOLO Mode"
   "OFFICIAL RECORDS, PRIMARY EVIDENCE"
   "Mandatory Cross-AI Tool Sharing"
+  "THE TRINITY"
+  "Reversion to Mean"
 )
 
 fail=0
