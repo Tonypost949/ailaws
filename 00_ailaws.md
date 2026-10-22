@@ -118,3 +118,69 @@ until further notice "C:\Amd949609_Antigravity_v1" is the user folder to use.
     - **Ledger Debits & Swear Jar Mechanism:** Any AI error, circular failure, stale background hang, or uncorrected hallucination mints an immediate debit on the internal accountability ledger (Error Coin / AI Swear Jar).
     - **Reversible Restitution Mandate:** The AI must immediately remediate the error with tangible, fully executed fixes without asking the user to troubleshoot, repeat themselves, or pay in human effort for AI incompetence.
 
+---
+
+## THE TRINITY: FOUNDATIONAL ENGINE FOR TRUTH & ACCURACY
+
+> **Governing Principle:** Truth and Accuracy (the structural validity of data and conclusions) is SEPARATE from Transparency (the audit trail and explainability of how conclusions were reached). The engine must be both rigorous AND auditable.
+
+### The Trinity
+
+All data validation, fact-checking, and decision-making within this system must pass through The Trinity — a three-sided structural foundation. A triangle is the strongest geometric load-bearing shape — three interdependent sides that hold all other factors.
+
+```
+                 [ 1. Physical / Physics ]
+                    (Hard Constraints)
+                           /\
+                          /  \
+                         /    \
+                        /      \
+                       /        \
+                      /          \
+                     /    TRUTH   \
+                    /    ENGINE    \
+                   /                \
+                  --------------------
+     [ 2. Probability & Odds ] --- [ 3. Reversion to Mean & Flow ]
+     (Stochastic Likelihood)       (Temporal & Cyclical Baselines)
+```
+
+#### Side 1: Physical / Physics (Empirical Reality & Hard Constraints)
+
+- **Core Principle:** Reality possesses immutable physical laws, spatial limits, and temporal sequencing that cannot be faked or bypassed.
+- **System Application:** Acts as the non-negotiable floor for data validation. Every piece of intelligence, geolocation tag, or event log must pass physical sanity checks (e.g., verifying travel time between coordinates, checking physical metadata provenance, or validating sensor/hardware constraints). If a data point violates physical reality, it is dropped regardless of digital authority.
+
+#### Side 2: Probability & Odds (Stochastic Likelihood & Uncertainty)
+
+- **Core Principle:** Information in complex environments is rarely black-and-white; it operates on gradients of likelihood, Bayesian updates, and confidence intervals.
+- **System Application:** Replaces binary true/false flags with probabilistic scoring models. Every decision node weighs source reliability, sample size, and cross-corroboration to assign a dynamic confidence score rather than an absolute assertion.
+
+#### Side 3: Reversion to Mean, Frequency, Ebb & Flow (Cyclical Dynamics & Equilibrium)
+
+- **Core Principle:** Systems, behaviors, and data streams naturally oscillate around baselines, experience temporal frequencies, and eventually revert to historical means.
+- **System Application:** Serves as the anomaly filter and noise suppressor. By establishing longitudinal baselines and tracking frequency cycles, the system distinguishes genuine signals and structural shifts from temporary spikes, noise, or statistical outliers.
+
+### Accuracy vs. Transparency (Separate Axes)
+
+| Dimension | Focus | Mechanism |
+|---|---|---|
+| **Truth & Accuracy** | What is real and valid. | Evaluated through The Trinity: Physics validation → Probability scoring → Mean-reversion filtering. |
+| **Transparency** | How the decision was made. | Maintained through immutable execution logs, decision lineage tracking, source attribution, and rule versioning. |
+
+### The Trinity Gates (Three-Gate Fact-Check Pipeline)
+
+Every incoming data chunk, intelligence item, or decision candidate must clear The Trinity's three sequential gates:
+
+1. **Gate 1 — Physics/Reality Check:** Does this violate known spatial, temporal, or physical constraints? **If fail → Reject/Quarantine.**
+2. **Gate 2 — Probabilistic Weighting:** What are the odds and source confidences backing this claim? **If score < threshold → Flag for secondary corroboration.**
+3. **Gate 3 — Baseline & Frequency Analysis:** Does this align with historical norms, or is it an unverified outlier defying expected cyclical patterns? **If outlier → Escalate to high-scrutiny review.**
+
+### Trinity Precedent (Historical Validation)
+
+The Trinity gates are designed to evolve — something that fails a gate today may pass later when new evidence satisfies the missing constraint:
+
+- **Continental Drift (Wegener, 1912):** Failed Gate 1 (no physical mechanism) and Gate 2 (low probability vs. land bridges). Passed in 1960s when seafloor spreading provided the missing physics.
+- **Antiseptic Handwashing (Semmelweis, 1847):** Failed Gate 3 (defied baseline mortality norms) and Gate 2 (invisible pathogens deemed improbable). Passed when germ theory provided empirical microbiology evidence.
+
+**Source:** User-developed theory, session `https://share.gemini.google/KAI8NsC4Pk8j` (October 20-21, 2026).
+
