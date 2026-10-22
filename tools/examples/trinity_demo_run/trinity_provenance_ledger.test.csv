@@ -1,0 +1,3 @@
+path,sha256,size,observed_at,verdict,gates_failed
+/tmp/opencode/tb/src/rec1.html,929aa9be0f3b9eaa3afce96291d466f01a6cb9ddf219c1144e6af12b69c8702a,144,2026-10-22T00:49:38.035876+00:00,ACCEPT,[]
+/tmp/opencode/tb/src/rec1.html,8870476d5aeeb94c4e0bd7a5fcd7330ab4de93a4fdd89280611fd41f988decdd,155,2026-10-22T00:49:48.067035+00:00,QUARANTINE,['gate1']
