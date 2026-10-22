@@ -56,3 +56,34 @@ here. No documented entry point references them — every prompt, installer and 
 copy /Y "C:\Amd949609_Antigravity_v1\00_ailaws.md" "C:\ailaws.md"
 copy /Y "C:\Amd949609_Antigravity_v1\00_ailaws.md" "C:\AGENTS.md"
 ```
+
+## The Trinity — truth & accuracy engine
+
+`THE TRINITY: FOUNDATIONAL ENGINE FOR TRUTH & ACCURACY` is law, and it now has teeth:
+
+| Tool | Purpose |
+| --- | --- |
+| `tools/trinity_gate.py` | Three-gate engine. Gate 1 physics/reality (coordinate ranges, impossible travel, temporal order, required mechanism, hash provenance) → Gate 2 Bayesian posterior from source tier + independent corroboration → Gate 3 z-score outlier vs longitudinal baseline. |
+| `tools/trinity_intake.sh` | Wrapper: runs a JSONL of evidence records, writes `verdicts.jsonl` + immutable `audit.jsonl` + `summary.md` under `C:\Amd949609_Antigravity_v1\EVIDENCE_LOCKER_MASTER\trinity\<stamp>\`. |
+| `tools/test_trinity_gate.py` | 35 unit tests incl. the law's own precedents (Wegener 1912 → passes only when seafloor-spreading physics is supplied; Semmelweis 1847 → escalated as an outlier, not accepted). |
+
+**Accuracy and transparency are separate outputs.** Every verdict carries the gate outcome *and* an audit record:
+`rule_version`, `record_sha256`, full record snapshot, baseline snapshot, gate sequence, per-gate numbers.
+
+**Verdicts:** `ACCEPT`, `FLAG_CORROBORATE` (gate 2 below threshold), `ESCALATE_HIGH_SCRUTINY` (gate 3 outlier),
+`QUARANTINE` (gate 1 violation). A record can trip several gates; every required action is reported and the primary
+verdict is the most severe (`QUARANTINE > ESCALATE > FLAG_CORROBORATE > ACCEPT`).
+
+**Nothing is destroyed.** `recheck()` re-runs a stored record against new corroboration or a new baseline, so a record
+that failed a gate today can pass later — exactly the Continental Drift / Semmelweis precedent behaviour.
+
+```bash
+python3 tools/trinity_gate.py --selftest
+python3 -m unittest test_trinity_gate -v      # from tools/
+bash tools/trinity_intake.sh records.jsonl
+```
+
+See `tools/examples/trinity_demo_run/` for a real run: official deed `ACCEPT` (posterior 0.95), anonymous tip
+`FLAG_CORROBORATE` (0.30), impossible 5-minute Huntington Beach → San Diego drive `QUARANTINE` (implied 4,400 km/h),
+unexplained 4-ft property-line move with no recorded instrument `QUARANTINE` (no physical mechanism), and a 2.45M
+comparable against an 812k ± 95k baseline `ESCALATE_HIGH_SCRUTINY` (z = 17.2) with both gate 2 and gate 3 actions listed.
