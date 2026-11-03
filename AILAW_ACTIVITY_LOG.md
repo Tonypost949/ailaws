@@ -1,0 +1,11 @@
+# AILAW ACTIVITY LOG
+
+Strict timestamp notes on ALL AILAW-related activity, per the GitHub-first governance rule (AILAW_CHANGE_GOVERNANCE.md). Times are America/Los_Angeles (PST) unless marked otherwise. New entries go on top. Nothing is removed from this log; corrections are added as new entries.
+
+---
+
+- **2026-11-03 ~15:00 PST** — GOVERNANCE COMMITTED TO GITHUB: AILAW_CHANGE_GOVERNANCE.md (this rule), this log, and archive/PRE_CHANGE_STATE_2026-11-03_1459_PST.md pushed to https://github.com/Tonypost949/ailaws as the first change made under the new GitHub-first rule. Done by Neo (Muse) in the user's side chat, under the user's direct order of 14:58 PST. Local copies to be pulled from GitHub after this commit.
+- **2026-11-03 14:59 PST** — PRE-CHANGE STATE VERIFIED AND RECORDED (before the governance commit): repo HEAD d1215c9a92f3313a54ba461c60fd2a5b669a6613; law blob 76a2f9f0a9cd62d4af850dcb69743bce83a492bd (18,987 bytes) identical at 00_ailaws.md, AGENTS.md, README.md, ailaws.md.
+- **2026-11-03 14:58 PST** — DIRECTIVE ORDERED BY USER (chat): changes to AI Laws are done through GitHub first, local copies come from GitHub; any change ordered by the user, or made by another system and approved, is to be revised, archived, backed up, kept undoable, with strict timestamp notes on all AILAW-related activity. Verbatim text preserved in AILAW_CHANGE_GOVERNANCE.md.
+- **2026-11-03 14:36 PST (22:36:38 UTC)** — REPO ACTIVITY OBSERVED (not done in this chat): commit d1215c9a92f3313a54ba461c60fd2a5b669a6613 "Add notebooklm-extract skill and real Error Coin / gap-naming examples (2026-11-03)" by Osint Neo / Tonypost949.
+- **2026-11-03 12:20–14:54 PST** — LOCAL REVIEW DRAFTS PREPARED, NOT POSTED (this predates the GitHub-first rule; recorded here so the activity is on the record): at the user's order, Neo prepared two local drafts numbering the adopted laws — v1 headings "Law I"–"Law XVI" (~/workspace/task_system/AILAWS_ADOPTED_NUMBERED_ROMAN_2026-11-03.md), then v2 headings "AI Law I"–"AI Law XVI" (~/workspace/task_system/AILAWS_ADOPTED_AILAW_ROMAN_2026-11-03.md). The user reviewed v2 in chat and stated he wanted to see it before it is posted. STATUS: numbering change NOT yet posted to GitHub; it goes through the GitHub-first route when the user gives the go.
