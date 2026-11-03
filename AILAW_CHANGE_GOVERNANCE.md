@@ -18,3 +18,16 @@
 - HEAD commit: d1215c9a92f3313a54ba461c60fd2a5b669a6613 ("Add notebooklm-extract skill and real Error Coin / gap-naming examples (2026-11-03)")
 - Law file blob: 76a2f9f0a9cd62d4af850dcb69743bce83a492bd (18,987 bytes), present identically at 00_ailaws.md, AGENTS.md, README.md, ailaws.md
 - Undo for this governance commit: revert it by a new commit; the pre-change state above remains reachable in history.
+
+
+## Amendment 1 — Only the user changes the AI Laws (ordered by the user, 2026-11-03 15:00 PST)
+
+User's exact words:
+
+> NOW NOTHING IS SUPPOSED TO CHANGE AI LAWS EACEPT ME BUT JUST IN CASE IT HAPPENS, RECORDS ARE KEPT, NOTHING IS HIDDEN, AND THE AI LAWS ARE RECORD KEEPING TOOLS INHERINTLY BC IF WE CANT DO THAT THEN WTF LOL
+
+In force from 2026-11-03 15:00 PST, amending point 3 above:
+
+1. **Only the user changes the AI Laws.** No AI, no other system, no other person is supposed to change them — in any way. (This narrows the earlier wording: proposals from other systems are not changes; at most they are proposals, and nothing becomes a change except by the user.)
+2. **If an unauthorized change happens anyway:** records are kept and **nothing is hidden** — what changed, when, and from where is entered in AILAW_ACTIVITY_LOG.md in full, and the change is reverted by a new commit, with the revert also logged. An unauthorized change is never quietly absorbed and never quietly erased.
+3. **The AI Laws are record-keeping tools inherently.** Keeping the record — timestamps, provenance, history — is not an add-on to the laws; it is part of what the laws are.

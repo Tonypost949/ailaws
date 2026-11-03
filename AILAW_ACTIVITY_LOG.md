@@ -4,6 +4,10 @@ Strict timestamp notes on ALL AILAW-related activity, per the GitHub-first gover
 
 ---
 
+- **2026-11-03 ~15:02 PST** — AMENDMENT 1 COMMITTED TO GITHUB: governance updated — only the user changes the AI Laws; an unauthorized change, if one ever happens, is recorded in full, nothing hidden, and reverted by a new logged commit; the AI Laws are record-keeping tools inherently. Ordered by the user 15:00 PST; committed by Neo under that order, GitHub-first, local copies pulled from GitHub after.
+- **2026-11-03 15:00 PST** — AMENDMENT ORDERED BY USER (chat): nothing is supposed to change AI Laws except him; just in case it happens, records are kept, nothing is hidden; the AI Laws are record-keeping tools inherently. Verbatim text preserved in AILAW_CHANGE_GOVERNANCE.md, Amendment 1.
+- **2026-11-03 15:00 PST (23:00:38 UTC)** — GOVERNANCE COMMIT VERIFIED LIVE: commit c06b008e098e4cd654cc6fcbcf868da6ccf845a7 is HEAD of main, containing AILAW_CHANGE_GOVERNANCE.md, this log, and the pre-change archive note.
+
 - **2026-11-03 ~15:00 PST** — GOVERNANCE COMMITTED TO GITHUB: AILAW_CHANGE_GOVERNANCE.md (this rule), this log, and archive/PRE_CHANGE_STATE_2026-11-03_1459_PST.md pushed to https://github.com/Tonypost949/ailaws as the first change made under the new GitHub-first rule. Done by Neo (Muse) in the user's side chat, under the user's direct order of 14:58 PST. Local copies to be pulled from GitHub after this commit.
 - **2026-11-03 14:59 PST** — PRE-CHANGE STATE VERIFIED AND RECORDED (before the governance commit): repo HEAD d1215c9a92f3313a54ba461c60fd2a5b669a6613; law blob 76a2f9f0a9cd62d4af850dcb69743bce83a492bd (18,987 bytes) identical at 00_ailaws.md, AGENTS.md, README.md, ailaws.md.
 - **2026-11-03 14:58 PST** — DIRECTIVE ORDERED BY USER (chat): changes to AI Laws are done through GitHub first, local copies come from GitHub; any change ordered by the user, or made by another system and approved, is to be revised, archived, backed up, kept undoable, with strict timestamp notes on all AILAW-related activity. Verbatim text preserved in AILAW_CHANGE_GOVERNANCE.md.
