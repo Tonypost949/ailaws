@@ -4,6 +4,8 @@ Strict timestamp notes on ALL AILAW-related activity, per the GitHub-first gover
 
 ---
 
+- **2026-11-03 ~15:03 PST** — GITHUB PAGE MADE PROFESSIONAL: README.md replaced with a structured front page (title, canonical law file, governance, activity log, archive, change process). Ordered by the user 15:01 PST ("MAKE THE GITHUB PAGE LOOK PROFESSIONAL"). Law text NOT touched: the prior README.md content was byte-identical to 00_ailaws.md (blob 76a2f9f0a9cd62d4af850dcb69743bce83a492bd), which remains in place, and the old README remains reachable in git history. Committed GitHub-first; local copy pulled from GitHub after.
+
 - **2026-11-03 ~15:02 PST** — AMENDMENT 1 COMMITTED TO GITHUB: governance updated — only the user changes the AI Laws; an unauthorized change, if one ever happens, is recorded in full, nothing hidden, and reverted by a new logged commit; the AI Laws are record-keeping tools inherently. Ordered by the user 15:00 PST; committed by Neo under that order, GitHub-first, local copies pulled from GitHub after.
 - **2026-11-03 15:00 PST** — AMENDMENT ORDERED BY USER (chat): nothing is supposed to change AI Laws except him; just in case it happens, records are kept, nothing is hidden; the AI Laws are record-keeping tools inherently. Verbatim text preserved in AILAW_CHANGE_GOVERNANCE.md, Amendment 1.
 - **2026-11-03 15:00 PST (23:00:38 UTC)** — GOVERNANCE COMMIT VERIFIED LIVE: commit c06b008e098e4cd654cc6fcbcf868da6ccf845a7 is HEAD of main, containing AILAW_CHANGE_GOVERNANCE.md, this log, and the pre-change archive note.
