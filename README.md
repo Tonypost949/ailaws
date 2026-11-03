@@ -16,6 +16,14 @@ The full text of the laws lives in the law file:
 
 The laws cover, among other things: direct execution of the owner's directives, the task system and zero loss of information, autonomous execution authority, zero human homework (the AI does the work itself), explicit full URLs and file paths, official-records and primary-evidence primacy, and the Error Coin accountability ledger.
 
+## Rules — the testing ground for future laws
+
+New provisions do not start as laws. They enter as **rules**, are tested on live work with the evidence recorded, and become laws only when the reasons are proven and the owner orders the merge — nothing lost along the way.
+
+- **[RULES.md](https://github.com/Tonypost949/ailaws/blob/main/RULES.md)** — the rules system: the pipeline (proposed → testing → proven → law, only on the owner's order), and the difference between a law, a rule, a tool, and an idea/task.
+- **[rules/RULES_REGISTER.md](https://github.com/Tonypost949/ailaws/blob/main/rules/RULES_REGISTER.md)** — every rule and its status. Currently under test: the owner's **AILAWS V2 (aitechverse)** draft, listed 2026-11-03 as rules RULE-2026-V2-01 … V2-09 — **listed for testing, not adopted as law**.
+- **[rules/RULE_TEST_LOG.md](https://github.com/Tonypost949/ailaws/blob/main/rules/RULE_TEST_LOG.md)** — dated records of rules applied on live work; a promotion verdict may only cite what is recorded there.
+
 ## Governance
 
 How this repository is run is itself part of the record:
@@ -31,6 +39,8 @@ The AI Laws are, inherently, record-keeping tools: the history of this repositor
 | Path | What it is |
 |---|---|
 | `00_ailaws.md` | Canonical full text of the AI Laws |
+| `RULES.md` | The rules system — how new provisions are tested before they can become laws |
+| `rules/` | Rules register, test log, and verbatim candidate texts under test |
 | `AILAW_CHANGE_GOVERNANCE.md` | The rules for changing the laws |
 | `AILAW_ACTIVITY_LOG.md` | Timestamped log of all AILAW-related activity |
 | `archive/` | Pre-change state records (undo points) |
