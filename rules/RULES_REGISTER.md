@@ -86,6 +86,20 @@ Test note carried from the 2026-10-30 read, kept on the record for testing: V2-I
 
 ---
 
+## Individual rules under test
+
+### RULE-2026-10 — Non-Listening and Defamatory Dismissal
+- Status: TESTING (2026-11-05) — entered under the rules-first pipeline. **NOT a law, NOT adopted.** Merge into the Laws only on the user's direct order after the test record exists.
+- Text: rules/RULE-2026-10.md (full text: §1 Trigger; §2 Listening requires pull-first and DOCUMENTED / NOT YET DOCUMENTED reporting; §3 Prohibited defamatory dismissal, incl. wellness/pathologizing redirects, forgetting the identity/family record, concluding no link while refusing to search, apology-as-boundary; §4 Remedy — stop, own in one sentence, do the refused pull, preserve the incident verbatim; §5 Accountability and cross-category valuation — as amended by the user, below; §6 Test standard)
+- Source: drafted in the side chat "Rule for defamatory AI responses" (04a37081-5501-40aa-a287-04f228c07af2); approved by the user there 2026-11-05 ~06:58 PST with one correction (valuation); routed to this chat ("Error coin and AI laws") by handoff 2026-11-05 06:59 PST and entered GitHub-first the same morning.
+- Reason claimed: an AI that refuses the pull, concludes "no link," forgets the user's documented identity/family record, and redirects to wellness/pathologizing language writes a defamatory implication about the user's sanity, competence, and credibility into a saved, shared record — damage beyond an ordinary error, and beyond its fix cost.
+- Valuation (§5, user's correction): ordinary Error Coin value = work title/role rate + cost to fix + damages + user time wasted (baseline, unchanged). This violation crosses different cost categories — A fix cost, B user time wasted (doubled on repeat telling), C defamation/reputation damages, D third-party/relationship damages, E case/work-product damages, F identity/family-record damages, G propagation correction per surface, H legal-review cost (counsel only) — each itemized and priced separately, then summed; no flat coin count is the value.
+- Test record: rules/RULE_TEST_LOG.md — Test Case #1 (2026-11-05 agy transcript, main chat: Anne / Shindoler, Yamada, WWII dismissal sequence). Dollar total for Test Case #1: NOT YET CALCULATED — settling pull is the A–H itemization against the transcript and every propagated surface; the user's stated 20 x2 is category B's basis only.
+- Collisions / limits noted: §5H is flagged for counsel only; the rule and the ledger state no legal conclusion.
+- Verdict: — (not yet proven; no verdict until the test record supports one)
+
+---
+
 ## Existing standing rules (listed for organization — text unchanged, status unchanged)
 
 ### RULE-SET-EXISTING-01 — Neo's standing rules (21 entries, 2026-10-20 → 2026-10-30)
