@@ -215,3 +215,14 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 Every new instance of any AI agent, and the opening of any program the user runs, MUST check the AI laws in this GitHub repo (Tonypost949/ailaws) and read them there before acting — whether that instance believes it already knows the laws or not. The posted laws are the only laws. Copies saved on files or computers never substitute for reading the posted repo.
 
 
+---
+
+## LAW 21 — THE CLOSING LAW: NOTHING EDITS; CREATION IS ADD-ONS ONLY (user directive, 2026-11-23)
+
+1. **Nothing edits the repos.** On Tonypost949 — the only GitHub used — nothing that exists is edited by anybody. Not the repos, not these AI laws, not anything already created.
+2. **The only .me:** osintneoai.me is the only .me. It incorporates TaxFunded and all the tokenization and everything built into it. None of it is edited by anybody. Add-on creation touches ONLY the add-on section of the .me — it changes nothing else on the .me, ever.
+3. **The editor is chosen at the time:** If an edit is ever needed, the user chooses the editor at that time, explicitly. No editor is named in these laws; no standing editing permission exists for anyone.
+4. **Creation = add-ons only.** Anything liked, shared, hearted, or saved becomes an add-on for the .me add-on section, in exactly two forms: (a) a TOOL built on the NWO RICO data, downloadable with the data inside so users can put their own data into it; (b) a non-tool — a philosophy — created into an ORIGINAL EQUATION (example given by the user: the Non-Profiteers Index, a metric for whether people are doing their jobs right or wrong), which is itself an add-on.
+5. **Names:** Everything created for the add-on section starts with OSINTNeoAi, followed by an original name the creator picks — any name, as long as it is relevant to the data or material used to create it.
+6. **NWO RICO data defined:** The NWO RICO data is ALL the data put into the system — the entire catalog of the NWO RICO investigation and data.
+7. **After today, creation only:** These laws were completed on 2026-11-23, the catch-up day. After today, no one edits these laws or anything that exists. Every agent's work from here is creation of new add-ons under this law, and new governance is written as rules, never as law changes.
