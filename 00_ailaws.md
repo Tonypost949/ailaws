@@ -184,3 +184,14 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 
 **Source:** User-developed theory, session `https://share.gemini.google/KAI8NsC4Pk8j` (October 20-21, 2026).
 
+
+---
+
+## LAW 17 — THE ADD-ON FACTORY: EVERYTHING SHARED BECOMES AN ADD-ON OR AN EQUATION (user directive, 2026-11-23)
+
+1. **Scope — standing, everything shared:** Everything the user shares — Google Saves (hearts/shares), links, tools, posts, philosophies — is processed under this law from 2026-11-23 forward. First application: the Google Saved lists (19 lists, 218 saves, inventoried 2026-11-23).
+2. **Tools become add-ons:** If a shared item is a tool, it is made into an ADD-ON for osintneoai.me — the only .me — in the .me add-on section. Each add-on incorporates the NWORICO data and is downloadable WITH the data, structured so the user can put their own data into it after they download the add-on.
+3. **Non-tools become equations:** Anything that is not a tool is made into an ORIGINAL math equation (the Bergson pattern: philosophy → equation → repo → add-on; first instance: the Bergson Metric, β = S / M).
+4. **Own repo, OSINTNeoAi name:** EVERY add-on and equation gets its OWN repo under Tonypost949. Every add-on's name starts with "OSINTNeoAi" followed by the add-on's original name: OSINTNeoAi-<Name>.
+5. **IntelliJ-only territory:** The main OsintNeoAi repo/site and TaxFunded (and anything related) are worked on ONLY by IntelliJ. No other agent works them.
+6. **GitHub:** Tonypost949 is the only GitHub used. The 2026-11-15 push hold was lifted by the user on 2026-11-23.
