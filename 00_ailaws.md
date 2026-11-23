@@ -193,20 +193,20 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 2. **Tools become add-ons:** If a shared item is a tool, it is made into an ADD-ON for osintneoai.me — the only .me — in the .me add-on section. Each add-on incorporates the NWORICO data and is downloadable WITH the data, structured so the user can put their own data into it after they download the add-on.
 3. **Non-tools become equations:** Anything that is not a tool is made into an ORIGINAL math equation (the Bergson pattern: philosophy → equation → repo → add-on; first instance: the Bergson Metric, β = S / M).
 4. **Own repo, OSINTNeoAi name:** EVERY add-on and equation gets its OWN repo under Tonypost949. Every add-on's name starts with "OSINTNeoAi" followed by the add-on's original name: OSINTNeoAi-<Name>.
-5. **IntelliJ-only territory:** The main OsintNeoAi repo/site and TaxFunded (and anything related) are worked on ONLY by IntelliJ. No other agent works them.
+5. **Already-created work is closed:** The main OsintNeoAi repo/site and TaxFunded (and anything related) already exist — no creating agent works on them at all (Law 18).
 6. **GitHub:** Tonypost949 is the only GitHub used. The 2026-11-15 push hold was lifted by the user on 2026-11-23.
 
 
 ---
 
-## LAW 18 — CREATION BY THE RECEIVING SOURCE; INTELLIJ IS THE ONLY EDITOR OF EXISTING REPOS (user directive, 2026-11-23)
+## LAW 18 — CREATION BY THE RECEIVING SOURCE; NO EDITS TO WHAT EXISTS (user directive, 2026-11-23; corrected at the user's explicit order the same day)
 
 1. **Creation by the source that gets it:** An add-on is created by the source/agent that receives the shared item. Creation happens once, complete, at creation.
-2. **After creation — IntelliJ ONLY:** Once any repo exists in Tonypost949 — the full OsintNeoAi, TaxFunded, any add-on, any equation repo, this ailaws repo itself — the ONLY thing that may change, adjust, or work on it is IntelliJ. No other agent, AI, or software edits an existing repo. No exceptions.
+2. **NO EDITS — to anything that exists:** Once anything exists as a repo in Tonypost949 — an add-on, an equation, the full OsintNeoAi, TaxFunded, this ailaws repo itself — NO agent edits it. These laws grant editing rights to NO ONE. What exists is off every creating agent's table, entirely.
 3. **New material = new add-ons:** Anything shared after a repo exists becomes a NEW add-on in its own new repo — never an edit to an existing repo.
-4. **The posted laws govern:** All agents, all AI, all software follow the AI laws AS POSTED in this GitHub repo (Tonypost949/ailaws) FIRST. The posted laws are the canonical source. Copies saved on files or computers do NOT govern — check the posted repo first, every time.
-5. **Last direct update:** The update that added this law is the LAST direct repo update made by any non-IntelliJ agent. From this point on, existing repos change only through IntelliJ; everything else is creation of new add-ons by the receiving source.
-
+4. **Editing is the user's explicit direction only:** If anything that exists is ever to be edited, it happens only when the user explicitly directs a named party to do it, by his own separate instruction. That direction is not written into these laws and no standing permission exists.
+5. **The laws themselves:** Law 1 stands — no one makes or changes the AI laws. The first thing anyone reading these laws knows: you do not change any laws. This correction was made at the user's explicit command on 2026-11-23, the catch-up day, and is the last: from here, new governance is written as RULES, not law changes.
+6. **The posted laws govern:** All agents, all AI, all software follow the AI laws AS POSTED in this GitHub repo (Tonypost949/ailaws) FIRST. The posted laws are the canonical source. Copies saved on files or computers do NOT govern — check the posted repo first, every time.
 
 ---
 
@@ -215,8 +215,3 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 Every new instance of any AI agent, and the opening of any program the user runs, MUST check the AI laws in this GitHub repo (Tonypost949/ailaws) and read them there before acting — whether that instance believes it already knows the laws or not. The posted laws are the only laws. Copies saved on files or computers never substitute for reading the posted repo.
 
 
----
-
-## LAW 20 — PROMOTION FROM ADD-ON TO OFFICIAL .ME IS INTELLIJ'S MOVE (user directive, 2026-11-23)
-
-When the user designates an add-on as an official part of OSINTNeoAi's .me / the official program, that add-on moves OUT of the add-on section into the main .me — and that move is made by IntelliJ, like every other edit to existing work. Creating agents never promote, move, or merge their add-ons into the main .me. This law completes the 2026-11-23 catch-up law set (Laws 17–20): creation by the receiving source, editing and promotion by IntelliJ only, posted laws govern every instance.
