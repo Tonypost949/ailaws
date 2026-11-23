@@ -195,3 +195,14 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 4. **Own repo, OSINTNeoAi name:** EVERY add-on and equation gets its OWN repo under Tonypost949. Every add-on's name starts with "OSINTNeoAi" followed by the add-on's original name: OSINTNeoAi-<Name>.
 5. **IntelliJ-only territory:** The main OsintNeoAi repo/site and TaxFunded (and anything related) are worked on ONLY by IntelliJ. No other agent works them.
 6. **GitHub:** Tonypost949 is the only GitHub used. The 2026-11-15 push hold was lifted by the user on 2026-11-23.
+
+
+---
+
+## LAW 18 — CREATION BY THE RECEIVING SOURCE; INTELLIJ IS THE ONLY EDITOR OF EXISTING REPOS (user directive, 2026-11-23)
+
+1. **Creation by the source that gets it:** An add-on is created by the source/agent that receives the shared item. Creation happens once, complete, at creation.
+2. **After creation — IntelliJ ONLY:** Once any repo exists in Tonypost949 — the full OsintNeoAi, TaxFunded, any add-on, any equation repo, this ailaws repo itself — the ONLY thing that may change, adjust, or work on it is IntelliJ. No other agent, AI, or software edits an existing repo. No exceptions.
+3. **New material = new add-ons:** Anything shared after a repo exists becomes a NEW add-on in its own new repo — never an edit to an existing repo.
+4. **The posted laws govern:** All agents, all AI, all software follow the AI laws AS POSTED in this GitHub repo (Tonypost949/ailaws) FIRST. The posted laws are the canonical source. Copies saved on files or computers do NOT govern — check the posted repo first, every time.
+5. **Last direct update:** The update that added this law is the LAST direct repo update made by any non-IntelliJ agent. From this point on, existing repos change only through IntelliJ; everything else is creation of new add-ons by the receiving source.
