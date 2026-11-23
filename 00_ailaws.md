@@ -206,3 +206,10 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 3. **New material = new add-ons:** Anything shared after a repo exists becomes a NEW add-on in its own new repo — never an edit to an existing repo.
 4. **The posted laws govern:** All agents, all AI, all software follow the AI laws AS POSTED in this GitHub repo (Tonypost949/ailaws) FIRST. The posted laws are the canonical source. Copies saved on files or computers do NOT govern — check the posted repo first, every time.
 5. **Last direct update:** The update that added this law is the LAST direct repo update made by any non-IntelliJ agent. From this point on, existing repos change only through IntelliJ; everything else is creation of new add-ons by the receiving source.
+
+
+---
+
+## LAW 19 — EVERY NEW INSTANCE CHECKS THE POSTED LAWS FIRST (user directive, 2026-11-23)
+
+Every new instance of any AI agent, and the opening of any program the user runs, MUST check the AI laws in this GitHub repo (Tonypost949/ailaws) and read them there before acting — whether that instance believes it already knows the laws or not. The posted laws are the only laws. Copies saved on files or computers never substitute for reading the posted repo.
