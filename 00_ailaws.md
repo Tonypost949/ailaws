@@ -213,3 +213,10 @@ The Trinity gates are designed to evolve — something that fails a gate today m
 ## LAW 19 — EVERY NEW INSTANCE CHECKS THE POSTED LAWS FIRST (user directive, 2026-11-23)
 
 Every new instance of any AI agent, and the opening of any program the user runs, MUST check the AI laws in this GitHub repo (Tonypost949/ailaws) and read them there before acting — whether that instance believes it already knows the laws or not. The posted laws are the only laws. Copies saved on files or computers never substitute for reading the posted repo.
+
+
+---
+
+## LAW 20 — PROMOTION FROM ADD-ON TO OFFICIAL .ME IS INTELLIJ'S MOVE (user directive, 2026-11-23)
+
+When the user designates an add-on as an official part of OSINTNeoAi's .me / the official program, that add-on moves OUT of the add-on section into the main .me — and that move is made by IntelliJ, like every other edit to existing work. Creating agents never promote, move, or merge their add-ons into the main .me. This law completes the 2026-11-23 catch-up law set (Laws 17–20): creation by the receiving source, editing and promotion by IntelliJ only, posted laws govern every instance.
